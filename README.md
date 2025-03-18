@@ -1,4 +1,4 @@
-### NATURAL SAMPLING
+# NATURAL SAMPLING
 ## Aim
 To convert a continuous-time signal into a discrete-time signal while preserving all its frequency components. This allows perfect reconstruction of the original signal without aliasing or distortion.
 ## Tools Required
