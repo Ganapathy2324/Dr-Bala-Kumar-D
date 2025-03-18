@@ -1,4 +1,6 @@
 # IDEAL SAMPLING
+## Ganapathy Shriram
+## 212223060064
 ## Aim
 To study and analyze Ideal Sampling (Impulse Sampling), where a continuous-time signal is sampled using an impulse train, and observe its effects in both time and frequency domains. The experiment aims to verify the sampling theorem, analyze spectral characteristics, and understand signal reconstruction.
 ## Tools Required
@@ -55,7 +57,13 @@ ylabel('Amplitude');
 legend('Continuous-time', 'Reconstructed from 20 Hz samples','Reconstructed from 10 Hz samples','Reconstructed from 6 Hz samples');
 ```
 ## Output Waveform
-![Screenshot 2025-03-17 192120](https://github.com/user-attachments/assets/232cf0da-8ef2-415a-86d7-125c48262ddf)
+![image](https://github.com/user-attachments/assets/4a0fa865-e073-465c-ad5f-e6c650fd3733)
+![image](https://github.com/user-attachments/assets/6fcd73db-566c-4dc6-b557-66cf6a38d9c2)
+![image](https://github.com/user-attachments/assets/55d57716-9d2b-47aa-96d2-6e4ee2e1750e)
+
+
+
+
 ## Result
 The result of ideal sampling is a discrete-time signal that retains all the information of the original continuous-time signal is obtained and output is verified.
 
